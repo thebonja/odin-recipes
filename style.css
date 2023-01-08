@@ -3,3 +3,18 @@ html
     background: url("https://as2.ftcdn.net/v2/jpg/03/07/35/21/1000_F_307352129_dvr99c36HQ8fOUDwhn4awr710K0JqBSJ.jpg") no-repeat center center fixed;
     background-size: cover;
 }
+
+li
+{
+    color: white;
+}
+
+a:visited
+{
+    color:inherit;
+}
+
+h1
+{
+    color: white;
+}
