@@ -7,6 +7,12 @@ html
 li
 {
     color: white;
+    font-size: 24px;
+}
+
+a
+{
+    text-decoration: none   ;
 }
 
 a:visited
@@ -17,4 +23,6 @@ a:visited
 h1
 {
     color: white;
+    font-size: 48px;
 }
+
