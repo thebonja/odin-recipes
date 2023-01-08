@@ -26,3 +26,8 @@ h1.main
     font-size: 48px;
 }
 
+img
+{
+    width: fit-content;
+    height: auto;
+}
